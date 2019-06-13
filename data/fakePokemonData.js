@@ -23,3 +23,5 @@ const pokemon = [
 ]
 
 export default pokemon;
+
+
